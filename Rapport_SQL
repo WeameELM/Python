@@ -1,0 +1,4 @@
+#SQL
+Ce projet consiste à peupler une base de données relationnelle avec des jeux de données réalistes.Le rapport détaillé présente la structure de la base de données, les étapes de peuplement, 
+les requêtes SQL écrites pour interroger les données, ainsi que les résultats obtenus. Les requêtes incluent des opérations avancées telles que des jointures, des agrégations,
+des sous-requêtes et des filtres complexes. L'utilisation de PgAdmin4 a permis de visualiser et de manipuler la base de données de manière intuitive, tout en facilitant la gestion des schémas, des tables et des index.
