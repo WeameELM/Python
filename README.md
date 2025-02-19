@@ -1,2 +1,3 @@
-# Python
-Ce projet consiste à simuler un réseau social où les utilisateurs interagissent et forment des communautés. L'objectif est de modéliser les relations entre les utilisateurs, d'identifier des groupes d'intérêt (communautés), et d'analyser les performances des algorithmes utilisés. Le projet est structuré autour de plusieurs composants clés.
+🌟 Bienvenue sur mon GitHub ! 🌟
+
+Je partage ici mes projets en Python et SQL, allant de scripts pratiques à des analyses de données et des bases de données relationnelles. N'hésitez pas à explorer, contribuer ou me contacter pour échanger ! 
